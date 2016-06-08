@@ -4,7 +4,8 @@ Uses react with babel and webpack
 
 To build:
 ==========================
-Run 'npm build' from the command line
+Run 'npm install'
+Run 'npm run build' from the command line
 
 To verify the issue
 ==========================
