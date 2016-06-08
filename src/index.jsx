@@ -27,4 +27,6 @@ class App extends React.Component {
   }
 }
 
+// comment the next line and uncomment line 32 to make quill work
 render(<App/>, document.getElementById('app').createShadowRoot());
+//render(<App/>, document.getElementById('app'));
